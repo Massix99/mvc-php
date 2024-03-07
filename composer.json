@@ -1,0 +1,15 @@
+{
+    "name": "marcel/mvc",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Massix99",
+            "email": "marcel.wawacek@gmx.com"
+        }
+    ],
+    "require": {}
+}
